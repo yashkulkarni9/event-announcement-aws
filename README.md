@@ -97,6 +97,52 @@ Unlike many AWS projects focused purely on backend automation, this one:
 - Confirmation message after successfully creating an event:
 <img width="1469" alt="Screenshot 2025-05-01 at 12 31 55 AM" src="https://github.com/user-attachments/assets/7f37b740-9382-4f6b-95fd-5e9486c934c6" />
 
+- View Events page displaying a successfully created event from S3 data:
+<img width="1470" alt="Screenshot 2025-05-01 at 12 50 29 AM" src="https://github.com/user-attachments/assets/14bd3610-add8-42bd-8abf-ab1c07a0f636" />
+
+- events.json updated in S3 with new event after successful Lambda trigger:
+<img width="637" alt="Screenshot 2025-05-01 at 12 37 35 AM" src="https://github.com/user-attachments/assets/f98f20a5-091a-43fa-96bd-81e639aad45d" />
+
+- Entering email for event updates via AWS SNS subscription:
+<img width="1467" alt="Screenshot 2025-05-01 at 12 51 02 AM" src="https://github.com/user-attachments/assets/db06f73c-4f81-40d8-976a-348d37751549" />
+
+- Successful subscription message:
+<img width="1469" alt="Screenshot 2025-05-01 at 12 51 45 AM" src="https://github.com/user-attachments/assets/16a68567-f41a-4e68-b237-0beebc42e815" />
+
+- AWS SNS email received for confirming event notification subscription on my email:
+<img width="670" alt="Screenshot 2025-05-01 at 12 52 23 AM" src="https://github.com/user-attachments/assets/dafd75fa-b905-4d2e-81dc-2752f8e8b3ee" />
+
+- AWS SNS subscription successfully confirmed for event notifications via my email:
+<img width="589" alt="Screenshot 2025-05-01 at 12 54 21 AM" src="https://github.com/user-attachments/assets/86cf1a59-4406-4ddc-a9aa-907ac1ac96c4" />
+
+- SNS subscription confirmed and visible in AWS console for email-based event notifications:
+<img width="1470" alt="Screenshot 2025-05-01 at 12 57 19 AM" src="https://github.com/user-attachments/assets/073e1119-db66-41c5-bb8b-35ff8f92181c" />
+
+- Creating another new event with form inputs named Perplexity Hackathon:
+<img width="1466" alt="Screenshot 2025-05-01 at 1 03 19 AM" src="https://github.com/user-attachments/assets/1a1f276a-e810-4fc9-90b9-871db4b41a3f" />
+
+- New event created sucessfully:
+<img width="1462" alt="Screenshot 2025-05-01 at 1 03 55 AM" src="https://github.com/user-attachments/assets/ce9347ee-e6bb-4061-9b70-37667e02974f" />
+
+- Email notification received from AWS SNS confirming new event creation and broadcasted to all the subscribers:
+<img width="664" alt="Screenshot 2025-05-01 at 1 04 22 AM copy" src="https://github.com/user-attachments/assets/7960bee6-2149-44fe-b96d-09eea649fab5" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

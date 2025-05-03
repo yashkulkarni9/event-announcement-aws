@@ -127,6 +127,11 @@ Unlike many AWS projects focused purely on backend automation, this one:
 - Email notification received from AWS SNS confirming new event creation and broadcasted to all the subscribers:
 <img width="664" alt="Screenshot 2025-05-01 at 1 04 22 AM copy" src="https://github.com/user-attachments/assets/7960bee6-2149-44fe-b96d-09eea649fab5" />
 
+- Updated events.json file in S3 reflecting newly created events via Lambda integration:
+<img width="637" alt="Screenshot 2025-05-01 at 1 05 53 AM" src="https://github.com/user-attachments/assets/1c1080bd-252f-4d3a-a823-249df5779039" />
+
+- View of upcoming events dynamically rendered from S3-hosted events.json data.
+<img width="1467" alt="Screenshot 2025-05-03 at 12 41 56 AM" src="https://github.com/user-attachments/assets/6571346f-24f1-426e-b686-154563b7961f" />
 
 
 

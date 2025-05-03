@@ -81,6 +81,38 @@ Unlike many AWS projects focused purely on backend automation, this one:
 - Easy to deploy and extend with minimal AWS cost
 
 ---
+## Final Outcomes
+- Empty State UI when no events are found in events.json from S3:
+<img width="1464" alt="Screenshot 2025-04-30 at 6 43 38 PM" src="https://github.com/user-attachments/assets/e787a583-1e27-4af3-aa93-ba5ea1d437fa" />
+
+- Create Event form UI to submit new event details to AWS Lambda via API Gateway:
+<img width="1463" alt="Screenshot 2025-04-30 at 6 44 03 PM" src="https://github.com/user-attachments/assets/cb3b6dde-3a13-4333-a8fa-dcfe83920a83" />
+
+- Subscribe form interface to capture user emails and forward them to AWS SNS via Lambda:
+<img width="1464" alt="Screenshot 2025-04-30 at 6 44 24 PM" src="https://github.com/user-attachments/assets/dd4585d1-736c-4a64-8ce1-8c4ed334d887" />
+
+- Form filled with sample event data:
+<img width="1468" alt="Screenshot 2025-05-01 at 12 05 39 AM" src="https://github.com/user-attachments/assets/e05a7caf-c4ed-4251-9fb5-5b0372295e20" />
+
+- Confirmation message after successfully creating an event:
+<img width="1469" alt="Screenshot 2025-05-01 at 12 31 55 AM" src="https://github.com/user-attachments/assets/7f37b740-9382-4f6b-95fd-5e9486c934c6" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
